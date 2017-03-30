@@ -6,5 +6,6 @@ int main()
 	printf("\nHello World\n");
 	printf("Good bye World\n");
 	printf("Aand hello again\n");
+	printf("Novaya volna\n");
 	return 0;
 }
