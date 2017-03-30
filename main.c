@@ -4,5 +4,6 @@
 int main()
 {
 	printf("\nHello World\n");
+	print("For commit\n");
 return 0;
 }
